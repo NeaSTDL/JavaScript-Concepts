@@ -8,5 +8,11 @@ Welcome to **JavaScript Concepts**! This repository is dedicated to providing cl
 - [What is JavaScript?](./00.Introduction/00.What%20is%20Javascript.md)
 - [What is it used for?](./00.Introduction/01.What%20is%20it%20used%20for.md)
 
+### Core Concepts
+- [What is a Statement?](./01.Core%20Concepts/00.What%20is%20a%20Statement.md)
+- [Variables and Data Types](./01.Core%20Concepts/01.Variables%20and%20Data%20Types.md)
+- [JavaScript Operators](./01.Core%20Concepts/02.JavaScript%20Operators.md)
+- [Assignment Types](./01.Core%20Concepts/03.Assignment%20Types.md)
+
 Feel free to explore each section for in-depth explanations and examples.
 
