@@ -13,6 +13,8 @@ Welcome to **JavaScript Concepts**! This repository is dedicated to providing cl
 - [Variables and Data Types](./01.Core%20Concepts/01.Variables%20and%20Data%20Types.md)
 - [JavaScript Operators](./01.Core%20Concepts/02.JavaScript%20Operators.md)
 - [Assignment Types](./01.Core%20Concepts/03.Assignment%20Types.md)
+- [Functions](./01.Core%20Concepts/04.Functions.md)
+- [Objects](./01.Core%20Concepts/05.Objects.md)
 
 Feel free to explore each section for in-depth explanations and examples.
 
