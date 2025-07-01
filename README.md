@@ -15,6 +15,10 @@ Welcome to **JavaScript Concepts**! This repository is dedicated to providing cl
 - [Assignment Types](./01.Core%20Concepts/03.Assignment%20Types.md)
 - [Functions](./01.Core%20Concepts/04.Functions.md)
 - [Objects](./01.Core%20Concepts/05.Objects.md)
+- [Reserved Words](./01.Core%20Concepts/06.Reserved%20Words.md)
+- [Conditional Statements](./01.Core%20Concepts/07.Conditional%20Statements.md)
+- [Loops](./01.Core%20Concepts/08.Loops.md)
+- [Scopes](./01.Core%20Concepts/09.Scopes.md)
 
 Feel free to explore each section for in-depth explanations and examples.
 
