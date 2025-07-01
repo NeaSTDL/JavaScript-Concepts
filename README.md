@@ -20,5 +20,12 @@ Welcome to **JavaScript Concepts**! This repository is dedicated to providing cl
 - [Loops](./01.Core%20Concepts/08.Loops.md)
 - [Scopes](./01.Core%20Concepts/09.Scopes.md)
 
+### Object Oriented Concepts
+- [Introduction](./02.Object%20Oriented%20Concepts/00.Introduction.md)
+- [JavaScript Prototypes](./02.Object%20Oriented%20Concepts/01.JavaScript%20Prototypes.md)
+- [Constructor Functions](./02.Object%20Oriented%20Concepts/02.Constructor%20Functions.md)
+- [Inheritance](./02.Object%20Oriented%20Concepts/03.Inheritance.md)
+- [Classes](./02.Object%20Oriented%20Concepts/04.Classes.md)
+
 Feel free to explore each section for in-depth explanations and examples.
 
